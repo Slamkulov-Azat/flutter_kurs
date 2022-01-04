@@ -1,20 +1,22 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:adaptive_theme/adaptive_theme.dart';
-import 'package:flutter_kurs/providers/lesson_6_provider.dart';
-import 'package:flutter_kurs/providers/lesson_7_provider.dart';
-import 'package:flutter_kurs/utilities/theme.dart';
+
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 
-import 'generated/l10n.dart';
-import 'providers/kurs_provider.dart';
-import 'providers/lesson_1_provider.dart';
-import 'providers/lesson_4_provider.dart';
-import 'providers/lesson_8_provider.dart';
-import 'providers/locale_provider.dart';
-import 'providers/reference_provider.dart';
-import 'providers/switch_provider.dart';
+import 'app/providers/kurs_provider.dart';
+import 'app/providers/lesson_1_provider.dart';
+import 'app/providers/lesson_4_provider.dart';
+import 'app/providers/lesson_6_provider.dart';
+import 'app/providers/lesson_7_provider.dart';
+import 'app/providers/lesson_8_provider.dart';
+import 'app/providers/locale_provider.dart';
+import 'app/providers/reference_provider.dart';
+import 'app/providers/switch_provider.dart';
+import 'app/utilities/theme.dart';
+import 'package:flutter_kurs/generated/l10n.dart';
+
 
 
 void main() async {
