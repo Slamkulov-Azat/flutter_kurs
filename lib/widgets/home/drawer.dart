@@ -17,7 +17,7 @@ class MainDrawer extends StatelessWidget {
       switch (val) {
         case 'en':
           return const Text(
-            'English',
+            'English1',
             style: TextStyle(fontSize: 16.0),
           );
         case 'ru':
