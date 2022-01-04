@@ -1,0 +1,44 @@
+{
+  "home_app_bar_title_1": "Learning",
+    "home_app_bar_title_2": "Directory",
+    "home_app_bar_title_3": "Test",
+
+  "homeScreenListButton_subtitle_1": "Lesson 1-2",
+    "homeScreenListButton_subtitle_3": "Lesson 3",
+    "homeScreenListButton_subtitle_4": "Lesson 4",
+    "homeScreenListButton_subtitle_5": "Lesson 5",
+    "homeScreenListButton_subtitle_6": "Lesson 6",
+    "homeScreenListButton_subtitle_7": "Lesson 7",
+    "homeScreenListButton_subtitle_8": "Lesson 8",
+    "homeScreenListButton_subtitle_9": "Lesson 9",
+  
+  "homeScreenListButton_OnPressed_1": "Start",
+    "homeScreenListButton_OnPressed_2": "Referencies",
+
+  "theme": "Dark theme",
+    "language": "language",
+    "drawerExpansionTileText": "Settings",
+
+  "quizzCustomButtonFalse": "False",
+    "quizzCustomButtonTrue": "True",
+    "quizzQuestionNumber": "Question",
+    "customDialogTitleText": "You have reached the end of the quiz!",
+    "customDialogContentText": "Your overall score: ",
+    "elevatedButtonText_1": "Again",
+    "elevatedButtonText_2": "To main",
+
+  "gendeMale": "Male",
+    "genderFemale": "Female",
+    "height": "Height",
+    "weight": "Weight",
+    "age": "Age",
+    "result": "Result",
+  "yourResult": "Your result",
+    "bottomButtonTitle": "Start over",
+      "result_1": "Overweight",
+      "result_2": "Normal",
+      "result_3": "Underweight",
+      "interpretation_1": "You are overweight. Try to exercise more.",
+      "interpretation_2": "Your body weight is normal. Well done!",
+      "interpretation_3": "You are underweight. You can eat a little more."
+}

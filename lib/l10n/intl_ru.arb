@@ -1,0 +1,44 @@
+{  
+    "home_app_bar_title_1": "Обучение",
+      "home_app_bar_title_2": "Справочник",
+      "home_app_bar_title_3": "Тест",
+
+    "homeScreenListButton_subtitle_1": "Урок 1-2",
+      "homeScreenListButton_subtitle_3": "Урок 3",
+      "homeScreenListButton_subtitle_4": "Урок 4",
+      "homeScreenListButton_subtitle_5": "Урок 5",
+      "homeScreenListButton_subtitle_6": "Урок 6",
+      "homeScreenListButton_subtitle_7": "Урок 7",
+      "homeScreenListButton_subtitle_8": "Урок 8",
+      "homeScreenListButton_subtitle_9": "Урок 9",
+    
+    "homeScreenListButton_OnPressed_1": "Запуск",
+      "homeScreenListButton_OnPressed_2": "Заметки",
+
+    "theme": "Темная тема",
+      "language": "Язык",
+      "drawerExpansionTileText": "Настройки",
+
+    "quizzCustomButtonFalse": "Не правда",
+      "quizzCustomButtonTrue": "Правда",
+      "quizzQuestionNumber": "Вопрос",
+      "customDialogTitleText": "Вы дошли до конца викторины!",
+      "customDialogContentText": "Ваш общий балл: ",
+      "elevatedButtonText_1": "Еще раз",
+      "elevatedButtonText_2": "На главную",
+
+    "gendeMale": "Муж.",
+      "genderFemale": "Жен.",
+      "height": "Рост",
+      "weight": "Вес",
+      "age": "Возраст",
+      "result": "Результат",
+    "yourResult": "Твой результат",
+      "bottomButtonTitle": "Заного",
+      "result_1": "Избыточный вес",
+      "result_2": "Норм",
+      "result_3": "Недостаточный вес",
+      "interpretation_1": "У вас масса тела выше нормы. Старайтесь больше заниматься спортом.",
+      "interpretation_2": "У вас нормальная масса тела. Молодец!",
+      "interpretation_3": "У вас масса тела ниже нормы. Вы можете съесть немного больше."
+}

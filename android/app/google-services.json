@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680043977535",
+    "project_id": "flutter-kurs-84160",
+    "storage_bucket": "flutter-kurs-84160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680043977535:android:059f1c0d4c1d50701ad18a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_kurs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680043977535-sdsg79289uq4ikd757slcdcucs0jfs0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9g9wl3hpBdwMHkzmQhD6dbSY1TUocpns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680043977535-sdsg79289uq4ikd757slcdcucs0jfs0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

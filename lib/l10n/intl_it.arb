@@ -1,0 +1,44 @@
+{  
+    "home_app_bar_title_1": "Сабак",
+      "home_app_bar_title_2": "Справочник",
+      "home_app_bar_title_3": "Тест",
+
+    "homeScreenListButton_subtitle_1": "1-2 - сабак",
+      "homeScreenListButton_subtitle_3": "3 - сабак",
+      "homeScreenListButton_subtitle_4": "4  - сабак",
+      "homeScreenListButton_subtitle_5": "5  - сабак",
+      "homeScreenListButton_subtitle_6": "6 - сабак",
+      "homeScreenListButton_subtitle_7": "7 - сабак",
+      "homeScreenListButton_subtitle_8": "8 - сабак",
+      "homeScreenListButton_subtitle_9": "9 - сабак",
+    
+    "homeScreenListButton_OnPressed_1": "Старт",
+      "homeScreenListButton_OnPressed_2": "Эскертүүлөр",
+
+    "theme": "Кара тема",
+      "language": "Тил",
+      "drawerExpansionTileText": "Орнотуулар",
+
+    "quizzCustomButtonFalse": "Туура эмес",
+      "quizzCustomButtonTrue": "Туура",
+      "quizzQuestionNumber": "Суроо",
+      "customDialogTitleText": "Сиз сынактын аягына жеттиңиз!",
+      "customDialogContentText": "Жалпы балл: ",
+      "elevatedButtonText_1": "Дагы бир жолу",
+      "elevatedButtonText_2": "Башкы бетке",
+
+    "gendeMale": "Эркек",
+      "genderFemale": "Аял",
+      "height": "Бой",
+      "weight": "Салмак",
+      "age": "Жаш",
+      "result": "Жыйынтык",
+    "yourResult": "Сиздин натыйжа",
+      "bottomButtonTitle": "Башынан",
+      "result_1": "Ашыкча салмак",
+      "result_2": "Норм",
+      "result_3": "Аз салмак",
+      "interpretation_1": "Сиздин дене салмагыңыз ашыкча. Көбүрөөк машыгууга аракет кылыңыз.",
+      "interpretation_2": "Сиздин дене салмагыңыз нормалдуу. Азаматсыз!",
+      "interpretation_3": "Сиздин дене салмагыңыз аз. Сиз дагы бир аз тамак жесениз болот."
+}
